@@ -16,9 +16,29 @@ html {
 }
 
 p {
-  text-indent: 1em;
+  padding-bottom: 1.222em;
 }
 
 h2,h3,h4 {
   font-weight: bold;
+}
+
+h2 {
+  font-size: 40.5px;
+  line-height: 44px;
+}
+
+h3 {
+  font-size: 27px;
+  line-height: 33px;
+  padding-bottom: 11px;
+}
+
+ul {
+  padding: 0 0 1.222em 1.222em;
+  list-style-type: square;
+}
+
+footer {
+  font-style: italic;
 }
