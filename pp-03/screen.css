@@ -60,5 +60,9 @@ section {
 }
 
 @media screen and (min-width: 800px) {
+  #content {
+   display: flex;
+   flex-direction: row-reverse;
+ }
 
 }
