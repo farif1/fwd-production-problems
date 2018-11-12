@@ -3,5 +3,5 @@ function ringDoorbell() {
   doorbell.play();
 }
 
-document.querySelector("#container").innerHTML = "<div id='newPlayButton'></div>"
+document.querySelector("#container").innerHTML = "<button id='newPlayButton'>Play Doorbell</button>"
 document.querySelector("#newPlayButton").addEventListener("click",ringDoorbell)
