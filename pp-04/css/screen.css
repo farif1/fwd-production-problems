@@ -18,6 +18,11 @@ body {
   padding: 10%;
 }
 
+#newPlayButton {
+  background: red;
+  height: 100px;
+}
+
 /* ===== LAYOUT STYLES ===== */
 
 
